@@ -88,7 +88,7 @@ def check_tiktok(id_tiktok, token):
     except:
         return 'error'
 
-log = loginTDS("Huongka14","Huongka14@gmail.com")
+log = loginTDS("cipher1","0962818544sAl@")
 if log == False:
     print("Login Thất Bại ")
     sys.exit()
